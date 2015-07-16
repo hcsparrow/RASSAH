@@ -1,0 +1,4 @@
+.DS*
+*~
+.meteor/local
+.meteor/meteorite
